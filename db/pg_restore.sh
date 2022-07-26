@@ -8,3 +8,4 @@ DB_USER=user
 DB_DATABASE=db
 
 pg_restore -h $HOST -p $PORT --dbname=$DB_DATABASE --username=$DB_USER -w $FILE
+ы
